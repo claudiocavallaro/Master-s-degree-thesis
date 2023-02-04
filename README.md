@@ -3,6 +3,8 @@
 ## Master's degree Thesis
 
 In this repository, you will find the slides that I used to present the project and all the related links to the different parts.
+The idea behind it is to have a system that dynamically provides the right background music based on a person's effort on the treadmill.
+![alt txt](presentation.png)
 
 Repositories:
 
