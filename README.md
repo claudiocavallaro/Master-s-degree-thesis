@@ -2,7 +2,7 @@
 
 ## Master's degree Thesis
 
-In this repository you can find the presentation's pdf used to explain to the degree board the project, and the links to all the parts.
+In this repository, you will find the slides that I used to present the project and all the related links to the different parts.
 
 Repositories:
 
